@@ -1,0 +1,25 @@
+.b1{
+    background-color: #5f6f52;
+}
+.b1 :hover{
+    background-color: white;
+}
+.sec1{
+    background-image: url(images/background.png);
+    
+    width: 100%;
+    background-size: cover;
+    height: 650px;
+    background-repeat: no-repeat;
+    
+}
+#navbar{
+    background-color: #cbc7bb;
+}
+.bg{
+    background-color: #5f6f52;
+    border-radius: 30px;
+}
+.c2{
+    background-color: #f6f9fc;
+}
